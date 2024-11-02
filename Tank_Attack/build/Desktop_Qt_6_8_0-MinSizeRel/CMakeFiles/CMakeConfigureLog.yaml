@@ -1,0 +1,10 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/home/david/Qt/Tools/CMake/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      The system is: Linux - 6.8.0-47-generic - x86_64

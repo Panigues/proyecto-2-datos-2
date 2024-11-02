@@ -1,0 +1,9 @@
+/home/david/Tank_Attack/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/Tank_Attack.dir
+/home/david/Tank_Attack/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/edit_cache.dir
+/home/david/Tank_Attack/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/david/Tank_Attack/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/list_install_components.dir
+/home/david/Tank_Attack/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install.dir
+/home/david/Tank_Attack/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install/local.dir
+/home/david/Tank_Attack/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install/strip.dir
+/home/david/Tank_Attack/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/Tank_Attack_autogen_timestamp_deps.dir
+/home/david/Tank_Attack/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/Tank_Attack_autogen.dir
